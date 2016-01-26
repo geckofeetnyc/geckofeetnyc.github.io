@@ -63,6 +63,7 @@ nav ul li a:hover {
     left: 280px;
     width: 75px;
     height: 75px;
+    -webkit-filter: invert(100%);
 }
             
 
